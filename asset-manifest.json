@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kahootclone/static/css/main.d1b05096.chunk.css",
-    "main.js": "/kahootclone/static/js/main.33c1ecce.chunk.js",
-    "main.js.map": "/kahootclone/static/js/main.33c1ecce.chunk.js.map",
-    "runtime-main.js": "/kahootclone/static/js/runtime-main.68fc53fc.js",
-    "runtime-main.js.map": "/kahootclone/static/js/runtime-main.68fc53fc.js.map",
-    "static/js/2.7cf76a36.chunk.js": "/kahootclone/static/js/2.7cf76a36.chunk.js",
-    "static/js/2.7cf76a36.chunk.js.map": "/kahootclone/static/js/2.7cf76a36.chunk.js.map",
-    "index.html": "/kahootclone/index.html",
-    "precache-manifest.e95311ec5a6a7216f38dddc35102cf6e.js": "/kahootclone/precache-manifest.e95311ec5a6a7216f38dddc35102cf6e.js",
-    "service-worker.js": "/kahootclone/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/kahootclone/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7cf76a36.chunk.js.LICENSE.txt": "/kahootclone/static/js/2.7cf76a36.chunk.js.LICENSE.txt"
+    "main.css": "/KahootClone/static/css/main.d1b05096.chunk.css",
+    "main.js": "/KahootClone/static/js/main.085be666.chunk.js",
+    "main.js.map": "/KahootClone/static/js/main.085be666.chunk.js.map",
+    "runtime-main.js": "/KahootClone/static/js/runtime-main.589250d4.js",
+    "runtime-main.js.map": "/KahootClone/static/js/runtime-main.589250d4.js.map",
+    "static/js/2.7cf76a36.chunk.js": "/KahootClone/static/js/2.7cf76a36.chunk.js",
+    "static/js/2.7cf76a36.chunk.js.map": "/KahootClone/static/js/2.7cf76a36.chunk.js.map",
+    "index.html": "/KahootClone/index.html",
+    "precache-manifest.075edb7084eb9cecba7ca665bf96372c.js": "/KahootClone/precache-manifest.075edb7084eb9cecba7ca665bf96372c.js",
+    "service-worker.js": "/KahootClone/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/KahootClone/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7cf76a36.chunk.js.LICENSE.txt": "/KahootClone/static/js/2.7cf76a36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.68fc53fc.js",
+    "static/js/runtime-main.589250d4.js",
     "static/js/2.7cf76a36.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.33c1ecce.chunk.js"
+    "static/js/main.085be666.chunk.js"
   ]
 }
