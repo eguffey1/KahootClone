@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is your quest?",
+    "possibleAnswers":
+    [
+      {"text": "To find the holy grail",
+      "correct": true},
+      {"text": "To learn new things",
+      "correct": false},
+      {"text": "To program in React",
+      "correct": false},
+      {"text": "To get extra credit",
+      "correct": false}
+    ]
+  },
+  {
+    "question": "Who's gonna give it to ya?",
+    "possibleAnswers":
+    [
+      {"text": "Joseph Stalin",
+      "correct": false},
+      {"text": "Slim Shady",
+      "correct": false},
+      {"text": "Margret Thatcher",
+      "correct": false},
+      {"text": "X",
+      "correct": true}
+    ]
+  }
+]
